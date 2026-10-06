@@ -1,4 +1,4 @@
-# El-Gazoly-app
+# El-Ghazoly-app
 
 Last Updated: August 10, 2026
 
